@@ -1,0 +1,85 @@
+/* Employee.css */
+.App {
+    text-align: center;
+}
+
+.container {
+    margin-top: 2rem;
+}
+  
+.row {
+    margin-top: 2rem;
+}
+  
+.text-secondary {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    color: #555555;
+}
+  
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border-color: #28a745;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+  
+.modal-footer {
+    margin-top: 2rem;
+}
+  
